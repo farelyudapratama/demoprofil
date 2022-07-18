@@ -105,6 +105,9 @@
   .potogw{
     text-align: center;
   }
+  #linkmail{
+    font-size: small;
+  }
 }
 @media screen and (max-width : 720px) {
   #bt-form{
@@ -143,6 +146,9 @@
   margin-top: 10px !important;
   text-align: center;
   }
+  #linkmail{
+    font-size: small;
+  }
 }
 
 @media screen and (max-width : 350px) {
@@ -159,5 +165,8 @@
   .c2{
   margin-top: 10px !important;
   text-align: center;
+  }
+  #linkmail{
+    font-size: small;
   }
 }
