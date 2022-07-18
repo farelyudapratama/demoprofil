@@ -106,7 +106,28 @@
     text-align: center;
   }
 }
-
+@media screen and (max-width : 720px) {
+  #bt-form{
+    width: 100%;
+  }
+  .yt-box2{
+    margin-top: 20px;
+  }
+  .c1{
+  margin-top: 10px !important;
+  text-align: center;
+  }
+  .c2{
+  margin-top: 10px !important;
+  text-align: center;
+  }
+  .potogw{
+    text-align: center;
+  }
+  #linkmail{
+    font-size: small;
+  }
+}
 @media screen and (max-width : 576px) {
   #bt-form{
     width: 100%;
