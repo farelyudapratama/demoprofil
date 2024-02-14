@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="191.84698mm"
+   height="118.56798mm"
+   viewBox="0 0 191.84698 118.56798"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.94615213"
+     inkscape:cx="547.48067"
+     inkscape:cy="104.10588"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="141.99651"
+       y="155.44881"
+       width="297.44531"
+       height="165.9117"
+       id="rect1" />
+    <rect
+       x="141.99651"
+       y="155.44881"
+       width="297.44531"
+       height="165.9117"
+       id="rect4" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-8.9485266,-92.840955)">
+    <rect
+       style="fill:#292929;fill-opacity:1;stroke:none;stroke-width:2"
+       id="rect2"
+       width="191.84698"
+       height="118.56796"
+       x="8.9485264"
+       y="92.840958" />
+    <rect
+       style="fill:#1acfff;fill-opacity:1;stroke:none;stroke-width:1.41421"
+       id="rect3"
+       width="191.84698"
+       height="59.283989"
+       x="8.9485264"
+       y="152.12494" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.62763327,0,0,0.62763327,-69.683088,9.4836523)"
+       id="text1"
+       style="white-space:pre;shape-inside:url(#rect1);fill:#1acfff;fill-opacity:1;stroke:none;stroke-width:7.55906"><tspan
+         x="141.99609"
+         y="197.72222"
+         id="tspan3"><tspan
+           style="font-weight:bold;font-size:48px;font-family:'Segoe Script';-inkscape-font-specification:'Segoe Script, Bold'"
+           id="tspan1">Farel Yuda </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.62763327,0,0,0.62763327,-54.73316,67.518341)"
+       id="text3"
+       style="white-space:pre;shape-inside:url(#rect4);fill:#292929;fill-opacity:1;stroke:none;stroke-width:7.55906"><tspan
+         x="141.99609"
+         y="197.72222"
+         id="tspan7"><tspan
+           style="font-weight:bold;font-size:48px;font-family:'Segoe Script';-inkscape-font-specification:'Segoe Script, Bold'"
+           id="tspan4">Pratama</tspan></tspan></text>
+  </g>
+</svg>
